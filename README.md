@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat" alt="therbta" />
-  <a href="https://twitter.com/therbta" target="blank"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge" alt="therbta" /></a>
+  <div> <a href="https://twitter.com/therbta" target="blank"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge" alt="therbta" /></a> </div>
 </p>
 
 
