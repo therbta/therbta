@@ -12,7 +12,7 @@
 - 📫 How to reach me **mail@baristaskiran.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="color: white;">
+<p align="left" style="background-color: white;">
 <a href="https://codepen.io/therbta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="therbta" height="30" width="40" /></a>
 <a href="https://dev.to/therbta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="therbta" height="30" width="40" /></a>
 <a href="https://twitter.com/therbta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="therbta" height="30" width="40" /></a>
