@@ -8,8 +8,8 @@
 </p>
 
 <div align="center">
-<div> 🌱 I’m currently learning **react-native** </div>
-<div> 📫 How to reach me **mail@baristaskiran.com** </div>
+<div> 🌱 I’m currently learning <strong>react-native</strong> </div>
+  <div> 📫 How to reach me <strong>mail@baristaskiran.com</strong> </div>
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  <br><br><img src="https://images.lejusteweb.com/logo-asp-classic-1.svg" alt="reactnative" height=35" /><br> <font size="3"> **puppy love :)** </font>  </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  <br><br><img src="https://images.lejusteweb.com/logo-asp-classic-1.svg" alt="reactnative" height=35" /><br> <font size="3"> <strong>puppy love :)</strong> </font>  </p>
 
 <br>
 
