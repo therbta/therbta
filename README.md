@@ -12,23 +12,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&locale=en" alt="therbta" /></p>
 
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=therbta&" alt="therbta" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=therbta&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727)](https://git.io/streak-stats)
 
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=therbta&theme=xcode" /></div>
-<div  align="center"> <img src="https://github.com/therbta/therbta/blob/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=therbta&theme=xcode" /></div
 
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=radical" />
-</div>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=therbta&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=therbta&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&layout=compact&theme=radical" />
-</a>
-</div>
