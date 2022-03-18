@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, Hi, I'm Baris! </h1>
+<h1 align="center">👋 Hi, I'm Baris! </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="therbta" />
