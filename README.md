@@ -8,7 +8,11 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=therbta&show_icons=true&locale=en&layout=compact" alt="therbta" /></p>
+<p align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&locale=en" alt="therbta" /></p>
 
