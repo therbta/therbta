@@ -39,6 +39,11 @@
   <a href="https://twitter.com/therbta" target="blank"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge" alt="therbta" /></a>
 </p>
 
+<p align="center">
+   <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" width="120">
+</p>
+   
+
 
 
 <p align="center">
