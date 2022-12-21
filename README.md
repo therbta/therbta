@@ -51,11 +51,7 @@
 </p>
    
 
-
-
 <p align="center">
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&theme=radical&layout=compact" />
-<br><br>
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=radical" />
 <br><br>
 <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=therbta&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />  
