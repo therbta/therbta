@@ -7,7 +7,12 @@
 </p>
 
 <p align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" />
+     <img src=" https://user-images.githubusercontent.com/290451/76235994-04b94800-623d-11ea-9b5b-f7a1626ecb06.png" height="60" />
+  </p>
+ 
+  
+  <p align="center">
      <img src="https://www.php.net/images/logos/new-php-logo.svg" height="50">&nbsp;&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70">&nbsp;&nbsp;
  </p>
