@@ -6,6 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="therbta" />
 </p>
 
+
+  <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" />
+   </p>
+   
+
 <p align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="70" />
      <img src="https://camo.githubusercontent.com/715227adcbce086f9b1e9ffa7b50efb637451aaef673a7a2438a12c9bd1bd90a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f66697265626173652f66697265626173652d706c61696e2d776f72646d61726b2e737667" height="80" />
@@ -31,7 +37,7 @@
  </p>
  
  <p align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" /> &nbsp;&nbsp;
+     
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="50" /> 
  </p>
  
