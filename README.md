@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-<h3 align="center">I'm a freelance senior web developer and consultant/mentor with more than 18 years of experience in web development and currently focusing on building apps and interfaces with TypeScript and Next.JS.</h3>
+<h3 align="center">I'm a senior web developer and consultant with more than 12 years of experience in web development and currently focusing on building apps and interfaces with Javascript, (React, jQuery), PHP (8+) and Node.js </h3>
 
 ---
 
