@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" />
      <img src="https://www.php.net/images/logos/new-php-logo.svg" height="50">&nbsp;&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70">&nbsp;&nbsp;
  </p>
@@ -25,7 +26,6 @@
  </p>
  
  <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" /> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" /> &nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" />
  </p>
