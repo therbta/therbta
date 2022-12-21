@@ -1,6 +1,13 @@
+# 👋 Hello there!
 
+<h3 align="center">I'm a freelance senior web developer and consultant/mentor with more than 18 years of experience in web development and currently focusing on building apps and interfaces with TypeScript and Next.JS.</h3>
 
-<h1 align="center"> Hello world 👋 </h1>
+---
+
+## Availabilty and contact
+
+- Remote work only - but certainly okay with occasional on-site meetings.
+- Easiest way to reach me: rbtaskiran@gmail.com
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="therbta" />
