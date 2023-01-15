@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-<h3 align="center">I'm a senior web developer and consultant with more than 12 years of experience in web development and currently focusing on building apps and interfaces with Javascript, (React, jQuery), PHP (8+) and Node.js </h3>
+<h3 align="center">I am a senior web developer and consultant with over 12 years of experience in web development. I am currently focusing on building apps and interfaces using Javascript (React, jQuery), PHP (8+), and Node.js. </h3>
 
 ---
 
