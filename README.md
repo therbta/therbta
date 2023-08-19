@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-<h3 align="center">I am a senior web developer and consultant with over 15 years of experience in web development. I am currently focusing on building apps and interfaces using Javascript (React, Node.js), PHP, MySQL.</h3>
+<h3 align="center">I have over 15 years of experience as a software developer and consultant, specializing in building web and mobile applications using React, Next.js, Node.js, PHP, and React Native. </h3>
 
 ---
 
@@ -9,7 +9,8 @@
 - Remote work only - but certainly okay with occasional on-site meetings.
 - Easiest way to reach me: rbtaskiran@gmail.com
 
-<p align="center">
+<div style="display: none">
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&theme=radical" alt="therbta" />
 </p>
 
@@ -43,6 +44,7 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="50" /> &nbsp;&nbsp;
  </p>
  
+</div>
  
  <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="120">
