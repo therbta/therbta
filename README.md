@@ -1,6 +1,8 @@
 # Hey!
 
-<h3 align="center">I have over 15 years of experience as a software developer and consultant, specializing in building web and mobile applications using React, Next.js, Node.js, PHP, and React Native. </h3>
+<h3 align="center">
+  I have over 15 years of experience as a software developer and consultant, specializing in building web and mobile applications using React, Next.js, Node.js, PHP, and React Native. 
+</h3>
 
 ---
 
@@ -33,5 +35,5 @@
 <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=therbta&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />  
 </p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=therbta&theme=xcode" /></div>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=therbta&theme=xcode" /> </p>
 
