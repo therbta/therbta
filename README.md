@@ -1,7 +1,7 @@
 # Hey!
 
 <h3 align="center">
-  I have over 15 years of experience as a software developer and consultant, specializing in building web and mobile applications using React, Next.js, Node.js, PHP, and React Native. 
+  I have over 15 years of experience as a software developer and consultant, specializing in building web and mobile applications using React, Next.js, Node.js and React Native. 
 </h3>
 
 ---
