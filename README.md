@@ -20,6 +20,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" />
    </p>
 
+     <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" />
+   </p>
+
+ 
+
 
 <p align="center">
   <a href="https://twitter.com/therbta" target="blank"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge" alt="therbta" /></a>
