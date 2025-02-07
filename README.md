@@ -16,15 +16,20 @@
 </p>
 
   <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="80" />
+    <img src="https://vite.dev/logo.svg" height="80"/>
    </p>
 
   <p align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="80" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/react/react-original-wordmark.svg" height="80" />
+     <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" height="80" />
    </p>
-
+ <p align="center">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="75"/>
+ </p>
+ 
 <p align="center">
   <a href="https://twitter.com/therbta" target="blank"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge" alt="therbta" /></a>
 </p>
@@ -36,9 +41,8 @@
 
 <p align="center">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=radical" />
-<br><br>
-<img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=therbta&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />  
 </p>
 
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=therbta&theme=xcode" /> </p>
+
+![Baris Taskiran](https://raw.githubusercontent.com/therbta/therbta/refs/heads/main/bottom_header.svg)
 
