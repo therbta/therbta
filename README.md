@@ -1,4 +1,4 @@
-# Hey, I'm Barış 👋
+# Hey, I'm Baris 👋
 
 <h3 align="center">
 Senior Software Engineer & Consultant with 15+ years of experience in building high-performance web and mobile applications.
