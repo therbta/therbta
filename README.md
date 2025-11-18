@@ -1,6 +1,7 @@
 # Hey, I'm Baris 👋
 
 ### Senior Full-Stack & Product Engineer  
+www.thebt.dev  
 Building systems that replace entire workflows — not just individual features.
 
 ---
@@ -8,15 +9,15 @@ Building systems that replace entire workflows — not just individual features.
 ## 🚀 What I Do
 
 I design and build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated AI-supported workflows.  
-My work focuses on turning real-world business processes into **clean, scalable, reliable ecosystems**.
+My work focuses on turning real-world processes into **clean, scalable, reliable ecosystems** used daily by businesses and teams.
 
 Recent highlights:
 
-- **VEA Timeclock** — complete attendance, payroll, SMS, housing, transportation, and reporting platform  
+- **VEA Timeclock** — full attendance, payroll, SMS, housing, transportation & reporting platform  
 - **CEPA Test** — AI-powered CEFR exam system used by corporate teams  
 - Earlier contributions to educational ERPs (kept minimal intentionally)
 
-I usually handle problems that normally require full engineering teams.
+I typically handle problems that normally require full engineering teams.
 
 ---
 
@@ -40,7 +41,7 @@ I usually handle problems that normally require full engineering teams.
 
 - AI-augmented engineering workflows  
 - Modern DevOps & infra automation  
-- Product-driven technical architecture  
+- Product-driven technical design  
 
 ---
 
@@ -57,6 +58,7 @@ I usually handle problems that normally require full engineering teams.
 <p align="center">
   <a href="mailto:rbtaskiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://twitter.com/therbta"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge"></a>
+  <a href="https://www.thebt.dev"><img src="https://img.shields.io/badge/Website-thebt.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 </p>
 
 <p align="center">
