@@ -7,38 +7,58 @@ Building systems that replace entire workflows — not just individual features.
 
 ## 🚀 What I Do
 
-I build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated operational platforms.  
-My focus is turning real-world business processes into **clean, scalable, AI-supported ecosystems**.
+I design and build **platform-scale systems**, ERPs, SaaS tools, AI-powered workflows, and mobile apps.  
+I turn real-world business processes into **clean, automated, scalable ecosystems** used by thousands of people daily.
 
 Recent work includes:
 
-- **VEA Timeclock** – full attendance, payroll, SMS, housing, transportation & reporting platform  
-- **CEPA Test** – AI-powered CEFR English proficiency system used by major corporate teams  
-- Additional earlier contributions to education-focused ERPs (kept intentionally minimal)
+- **VEA Timeclock** — complete attendance, payroll, SMS, housing, transportation & reporting platform  
+- **CEPA Test** — AI-powered CEFR English proficiency system serving major corporations  
+- Additional earlier contributions to educational ERPs (kept minimal intentionally)
 
-I enjoy solving problems usually handled by full engineering teams.
+I typically handle work that normally requires entire engineering teams.
 
 ---
 
-## ⚙️ Tech Stack (Text)
+## ⚙️ Tech Stack (Text — Complete)
 
-**Languages:** JavaScript, TypeScript, PHP, SQL  
-**Frameworks:** Node.js, React, React Native, Next.js  
-**Backend:** REST APIs, Microservices, PostgreSQL, MySQL  
-**Cloud:** AWS (S3/SES/EC2), Heroku, Vercel  
-**AI / LLM Tools:** Claude, Cursor, GLM, GitHub Copilot  
-**Other:** Shopify (theme dev + store operations), Bootstrap, E-commerce systems
+### **Frontend**
+React · React Native · Next.js · **React Vite** · TypeScript · JavaScript · Bootstrap
+
+### **Backend**
+Node.js · Express · REST APIs · Microservices · PostgreSQL · MySQL · Redis · **Kafka**  
+PDF generation · Authentication systems · Multi-tenant architecture
+
+### **Cloud & Infrastructure**
+AWS (S3, SES, EC2) · **Google Cloud / Google APIs** · **Firebase**  
+**Supabase** · Heroku · Vercel · Cloudflare · Docker
+
+### **Databases**
+PostgreSQL · MySQL · SQLite · Supabase Auth/DB · Firebase Firestore
+
+### **AI & Coding Assistants**
+**Claude** · **AugmentCode** · **GitHub Copilot** · **Codex**  
+**GLM** · **Gemini** · LLM-assisted architecture workflows
+
+### **E-commerce**
+Shopify (theme dev + store operations) · Amazon Seller Central
+
+### **Tools**
+VSCode · Git · GitHub · Linux · Regex · CI/CD
+
+### **Legacy / Deprecated (Still Experienced)**
+**Classic ASP** · PHP (legacy systems only)
 
 ---
 
 ## ⚡ Tech Stack (Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,aws,heroku,vercel,git,github,php,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,redis,kafka,docker,aws,googlecloud,firebase,supabase,heroku,vercel,git,github,html,css,bootstrap" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,cloudflare,sqlite,regex" />
+  <img src="https://skillicons.dev/icons?i=vite,cloudflare,vscode,linux,regex" />
 </p>
 
 ---
@@ -47,7 +67,7 @@ I enjoy solving problems usually handled by full engineering teams.
 
 - AI-augmented engineering workflows  
 - Modern DevOps & infra automation  
-- Bridging product thinking with hands-on engineering  
+- Product-driven technical architecture  
 
 ---
 
