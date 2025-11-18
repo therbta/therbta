@@ -7,59 +7,32 @@ Building systems that replace entire workflows — not just individual features.
 
 ## 🚀 What I Do
 
-I design and build **platform-scale systems**, ERPs, SaaS tools, AI-powered workflows, and mobile apps.  
-I turn real-world business processes into **clean, automated, scalable ecosystems** used by thousands of people daily.
+I design and build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated AI-supported workflows.  
+My work focuses on turning real-world business processes into **clean, scalable, reliable ecosystems**.
 
-Recent work includes:
+Recent highlights:
 
-- **VEA Timeclock** — complete attendance, payroll, SMS, housing, transportation & reporting platform  
-- **CEPA Test** — AI-powered CEFR English proficiency system serving major corporations  
-- Additional earlier contributions to educational ERPs (kept minimal intentionally)
+- **VEA Timeclock** — complete attendance, payroll, SMS, housing, transportation, and reporting platform  
+- **CEPA Test** — AI-powered CEFR exam system used by corporate teams  
+- Earlier contributions to educational ERPs (kept minimal intentionally)
 
-I typically handle work that normally requires entire engineering teams.
-
----
-
-## ⚙️ Tech Stack (Text — Complete)
-
-### **Frontend**
-React · React Native · Next.js · **React Vite** · TypeScript · JavaScript · Bootstrap
-
-### **Backend**
-Node.js · Express · REST APIs · Microservices · PostgreSQL · MySQL · Redis · **Kafka**  
-PDF generation · Authentication systems · Multi-tenant architecture
-
-### **Cloud & Infrastructure**
-AWS (S3, SES, EC2) · **Google Cloud / Google APIs** · **Firebase**  
-**Supabase** · Heroku · Vercel · Cloudflare · Docker
-
-### **Databases**
-PostgreSQL · MySQL · SQLite · Supabase Auth/DB · Firebase Firestore
-
-### **AI & Coding Assistants**
-**Claude** · **AugmentCode** · **GitHub Copilot** · **Codex**  
-**GLM** · **Gemini** · LLM-assisted architecture workflows
-
-### **E-commerce**
-Shopify (theme dev + store operations) · Amazon Seller Central
-
-### **Tools**
-VSCode · Git · GitHub · Linux · Regex · CI/CD
-
-### **Legacy / Deprecated (Still Experienced)**
-**Classic ASP** · PHP (legacy systems only)
+I usually handle problems that normally require full engineering teams.
 
 ---
 
-## ⚡ Tech Stack (Icons)
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,redis,kafka,docker,aws,googlecloud,firebase,supabase,heroku,vercel,git,github,html,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,vite,postgres,mysql,redis,kafka,docker,aws,googlecloud,firebase,supabase,cloudflare,heroku,vercel,git,github,linux" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,cloudflare,vscode,linux,regex" />
-</p>
+**Core:** JavaScript, TypeScript, Node.js, React, React Native, Next.js, **React Vite**  
+**Backend:** REST APIs, Microservices, PostgreSQL, MySQL, Redis, Kafka  
+**Cloud / Infra:** AWS, **Google Cloud / Google APIs**, Firebase, Supabase, Docker, Vercel, Heroku  
+**E-commerce:** Shopify (theme dev + storefront ops), Amazon Seller Central  
+**AI Dev:** Claude, AugmentCode, Copilot, Codex, GLM, Gemini  
+**Tools:** Git, GitHub, CI/CD, VSCode, Linux  
+**Legacy (Deprecated):** Classic ASP, PHP (maintenance only)
 
 ---
 
