@@ -1,33 +1,44 @@
 # Hey, I'm Baris 👋
 
 ### Senior Full-Stack & Product Engineer  
-Building systems that replace entire workflows — not just features.
+Building systems that replace entire workflows — not just individual features.
 
 ---
 
 ## 🚀 What I Do
 
 I build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated operational platforms.  
-My strength is turning real-world business processes into **clean, scalable, AI-augmented ecosystems**.
+My focus is turning real-world business processes into **clean, scalable, AI-supported ecosystems**.
 
 Recent work includes:
 
 - **VEA Timeclock** – full attendance, payroll, SMS, housing, transportation & reporting platform  
-- **CEPA Test** – AI-powered CEFR English proficiency system used by large corporate teams  
-- Additional earlier contributions to education-focused ERPs (kept minimal intentionally)
+- **CEPA Test** – AI-powered CEFR English proficiency system used by major corporate teams  
+- Additional earlier contributions to education-focused ERPs (kept intentionally minimal)
 
-I enjoy solving problems typically handled by entire engineering teams.
+I enjoy solving problems usually handled by full engineering teams.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Text)
+
+**Languages:** JavaScript, TypeScript, PHP, SQL  
+**Frameworks:** Node.js, React, React Native, Next.js  
+**Backend:** REST APIs, Microservices, PostgreSQL, MySQL  
+**Cloud:** AWS (S3/SES/EC2), Heroku, Vercel  
+**AI / LLM Tools:** Claude, Cursor, GLM, GitHub Copilot  
+**Other:** Shopify (theme dev + store operations), Bootstrap, E-commerce systems
+
+---
+
+## ⚡ Tech Stack (Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,aws,heroku,vercel,git,github,html,css,bootstrap,php,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,aws,heroku,vercel,git,github,php,bootstrap,html,css" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,regex,redux,cloudflare,sqlite" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,cloudflare,sqlite,regex" />
 </p>
 
 ---
@@ -35,7 +46,7 @@ I enjoy solving problems typically handled by entire engineering teams.
 ## 🧠 What I'm Learning Now
 
 - AI-augmented engineering workflows  
-- Modern DevOps & infrastructure automation  
+- Modern DevOps & infra automation  
 - Bridging product thinking with hands-on engineering  
 
 ---
