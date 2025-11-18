@@ -7,17 +7,16 @@ Building systems that replace entire workflows — not just features.
 
 ## 🚀 What I Do
 
-I build **platform-scale systems**, ERPs, SaaS tools, mobile apps, and operational platforms used by thousands of users.  
-My strength is turning messy, real-world business processes into **clean, automated, AI-supported software ecosystems**.
+I build **platform-level systems**, ERPs, SaaS tools, mobile apps, and operational platforms used by thousands of users.  
+My focus is turning real-world processes into **clean, automated, AI-augmented software ecosystems**.
 
-I've led and delivered:
+Recent work includes:
 
-- **VEA Timeclock** – complete attendance, payroll, SMS, housing, transportation & reporting system  
-- **CEPA Test** – AI-powered CEFR English proficiency platform (10,000+ test takers yearly)  
-- **British Side Exam ERP** – Cambridge exam operations platform used by 200+ schools  
-- **British Side Course ERP** – student/teacher/course/attendance/payment management suite  
+- **VEA Timeclock** – complete attendance, payroll, SMS, housing, transportation & reporting platform  
+- **CEPA Test** – AI-powered CEFR English proficiency system for large corporate teams  
+- Additional full-stack engineering contributions to educational ERPs earlier in my career (kept minimal intentionally)
 
-I enjoy solving problems normally handled by entire engineering teams.
+I enjoy solving problems typically requiring full engineering teams.
 
 ---
 
@@ -35,7 +34,7 @@ I enjoy solving problems normally handled by entire engineering teams.
 
 - AI-augmented engineering workflows  
 - Modern DevOps & infrastructure automation  
-- Better ways to merge product thinking with hands-on engineering  
+- Bridging product thinking with hands-on engineering  
 
 ---
 
