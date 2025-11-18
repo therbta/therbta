@@ -7,26 +7,28 @@ Building systems that replace entire workflows — not just features.
 
 ## 🚀 What I Do
 
-I build **platform-level systems**, ERPs, SaaS tools, mobile apps, and operational platforms used by thousands of users.  
-My focus is turning real-world processes into **clean, automated, AI-augmented software ecosystems**.
+I build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated operational platforms.  
+My strength is turning real-world business processes into **clean, scalable, AI-augmented ecosystems**.
 
 Recent work includes:
 
-- **VEA Timeclock** – complete attendance, payroll, SMS, housing, transportation & reporting platform  
-- **CEPA Test** – AI-powered CEFR English proficiency system for large corporate teams  
-- Additional full-stack engineering contributions to educational ERPs earlier in my career (kept minimal intentionally)
+- **VEA Timeclock** – full attendance, payroll, SMS, housing, transportation & reporting platform  
+- **CEPA Test** – AI-powered CEFR English proficiency system used by large corporate teams  
+- Additional earlier contributions to education-focused ERPs (kept minimal intentionally)
 
-I enjoy solving problems typically requiring full engineering teams.
+I enjoy solving problems typically handled by entire engineering teams.
 
 ---
 
-## 🔧 Tech I Use
+## ⚙️ Tech Stack
 
-**Core:** JavaScript · TypeScript · Node.js · React · React Native · Next.js  
-**Backend:** PostgreSQL · MySQL · REST APIs · Microservices  
-**Cloud:** AWS (S3, SES, EC2) · Heroku · Vercel  
-**AI / LLM:** Claude · Cursor · GLM · GitHub Copilot  
-**Other:** Shopify (theme dev + store ops) · Bootstrap · E-commerce systems  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,postgres,mysql,aws,heroku,vercel,git,github,html,css,bootstrap,php,figma" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,regex,redux,cloudflare,sqlite" />
+</p>
 
 ---
 
