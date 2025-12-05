@@ -27,12 +27,12 @@ I typically handle problems that normally require full engineering teams.
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,reactnative,next,vite,postgres,mysql,redis,kafka,docker,aws,googlecloud,firebase,supabase,cloudflare,heroku,vercel,git,github,linux" />
 </p>
 
-**Core:** JavaScript, TypeScript, Node.js, React, React Native, Next.js, **React Vite**  
-**Backend:** REST APIs, Microservices, PostgreSQL, MySQL, Redis, Kafka  
-**Cloud / Infra:** AWS, **Google Cloud / Google APIs**, Firebase, Supabase, Docker, Vercel, Heroku  
-**E-commerce:** Shopify (theme dev + storefront ops), Amazon Seller Central  
-**AI Dev:** Claude, AugmentCode, Copilot, Codex, GLM, Gemini  
-**Tools:** Git, GitHub, CI/CD, VSCode, Linux  
+**Core:** JavaScript, TypeScript, Node.js, React, React Native, Next.js, Vite
+**Backend:** REST APIs, Microservices, PostgreSQL, MySQL, Redis, Kafka
+**Cloud / Infra:** AWS, Google Cloud / Google APIs, Firebase, Supabase, Docker, Vercel, Heroku
+**E-commerce:** Shopify (theme + storefront ops), Amazon Seller Central
+**AI Dev:** Claude, AugmentCode, Copilot, Codex, GLM, Gemini
+**Tools:** Git, GitHub, CI/CD, VSCode, Linux
 **Legacy (Deprecated):** Classic ASP, PHP (maintenance only)
 
 ---
@@ -40,8 +40,8 @@ I typically handle problems that normally require full engineering teams.
 ## 🧠 What I'm Learning Now
 
 - AI-augmented engineering workflows  
-- Modern DevOps & infra automation  
-- Product-driven technical design  
+- Modern DevOps & infrastructure automation  
+- Product-driven architectural design
 
 ---
 
