@@ -1,15 +1,15 @@
 # Hey, I'm Baris 👋
 
-### Senior Full-Stack & Product Engineer  
+### Senior Full-Stack Engineer
 www.thebt.dev  
-Building systems that replace entire workflows — not just individual features.
+I build end-to-end systems that replace entire workflows — not just individual features.
 
 ---
 
 ## 🚀 What I Do
 
-I design and build **platform-level systems**, ERPs, SaaS tools, mobile apps, and automated AI-supported workflows.  
-My work focuses on turning real-world processes into **clean, scalable, reliable ecosystems** used daily by businesses and teams.
+I design and build **platform-level systems**, ERPs, SaaS products, mobile apps, and AI-driven workflows.  
+I turn real-world processes into **clean, scalable, reliable ecosystems** used daily by businesses and teams.
 
 Recent highlights:
 
