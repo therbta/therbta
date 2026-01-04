@@ -71,16 +71,28 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 
 ## 📊 GitHub Stats
 
+<!-- Note: If stats cards don't load, self-host on Vercel for reliability -->
+<!-- Fork github-readme-stats and deploy to your own Vercel instance -->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <a href="https://github.com/therbta">
+    <img src="https://img.shields.io/github/followers/therbta?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/therbta?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=therbta&theme=radical" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=therbta&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
@@ -88,7 +100,7 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therbta&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=therbta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -96,7 +108,7 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 ## 🔥 Top Contributions
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=therbta&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=therbta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </p>
 
 ---
@@ -104,7 +116,7 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therbta&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therbta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
 ---
