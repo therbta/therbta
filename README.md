@@ -1,9 +1,18 @@
-# Hey, I'm Baris 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Baris+%F0%9F%91%8B;Senior+Full-Stack+Engineer;Building+Platform-Level+Systems;AI-Augmented+Development" alt="Typing SVG" />
+  </a>
+</p>
 
-### Senior Full-Stack Engineer
-[thebt.dev](https://www.thebt.dev)
+<p align="center">
+  <a href="https://www.thebt.dev"><img src="https://img.shields.io/badge/Website-thebt.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="mailto:rbtaskiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://twitter.com/therbta"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge"></a>
+</p>
 
-I build end-to-end systems that replace entire workflows — not just individual features.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20Views&color=70A5FD&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -71,28 +80,25 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 
 ## 📊 GitHub Stats
 
-<!-- Note: If stats cards don't load, self-host on Vercel for reliability -->
-<!-- Fork github-readme-stats and deploy to your own Vercel instance -->
-
 <p align="center">
   <a href="https://github.com/therbta">
-    <img src="https://img.shields.io/github/followers/therbta?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/therbta?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/therbta?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  <a href="https://github.com/therbta?tab=stars">
+    <img src="https://img.shields.io/github/stars/therbta?label=Stars&style=for-the-badge&logo=github&color=181717" alt="GitHub Stars"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therbta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-ten-zeta-34.vercel.app/api?username=therbta&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=therbta&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-stats-ten-zeta-34.vercel.app/api/top-langs/?username=therbta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therbta&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=therbta&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -110,27 +116,3 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=therbta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
 </p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therbta&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🌍 Connect
-
-<p align="center">
-  <a href="mailto:rbtaskiran@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://twitter.com/therbta"><img src="https://img.shields.io/twitter/follow/therbta?logo=twitter&style=for-the-badge"></a>
-  <a href="https://www.thebt.dev"><img src="https://img.shields.io/badge/Website-thebt.dev-blue?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=therbta&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
