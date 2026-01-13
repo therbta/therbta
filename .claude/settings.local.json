@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git remote remove:*)",
+      "Bash(git log:*)",
+      "Bash(curl:*)",
+      "WebSearch"
+    ]
+  }
+}
