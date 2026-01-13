@@ -109,7 +109,7 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 <tr>
 <td width="50%">
 
-### 🍌 [Nano Banana Pro Prompts](https://therbta.github.io/nano-banana-prompting/)
+### 🍌 [Nano Banana Pro Prompts](https://therbta.github.io/nano-banana-prompt-archive/)
 
 A collection of 496 curated AI prompts with advanced search, filtering, and pagination. Browse prompts by type, view examples, and copy with one click.
 
@@ -119,10 +119,10 @@ A collection of 496 curated AI prompts with advanced search, filtering, and pagi
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat-square&logo=github&logoColor=white)
 
 **Links:**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=flat-square)](https://therbta.github.io/nano-banana-prompting/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/therbta/nano-banana-prompting)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-success?style=flat-square)](https://therbta.github.io/nano-banana-prompt-archive/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/therbta/nano-banana-prompt-archive)
 
-![GitHub stars](https://img.shields.io/github/stars/therbta/nano-banana-prompting?style=social)
+![GitHub stars](https://img.shields.io/github/stars/therbta/nano-banana-prompt-archive?style=social)
 
 </td>
 </tr>
