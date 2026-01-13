@@ -98,6 +98,11 @@
         .toast.show { transform: translateY(0); }
         .no-results { text-align: center; padding: 4rem 2rem; color: var(--text-muted); display: none; }
         .no-results.show { display: block; }
+        .footer { border-top: 1px solid var(--border-color); padding: 2rem 1rem; text-align: center; background: var(--bg-secondary); margin-top: 4rem; }
+        .footer-content { max-width: 1400px; margin: 0 auto; }
+        .footer-text { color: var(--text-muted); font-size: 0.875rem; }
+        .footer-text a { color: var(--accent-primary); text-decoration: none; }
+        .footer-text a:hover { text-decoration: underline; }
         .footer { text-align: center; padding: 3rem 1rem; border-top: 1px solid var(--border-color); color: var(--text-muted); }
         .footer a { color: var(--accent-primary); text-decoration: none; }
         .loading { text-align: center; padding: 4rem 2rem; color: var(--text-secondary); }
@@ -431,5 +436,11 @@
         }
     })();
     </script>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p class="footer-text">Created by <a href="https://github.com/therbta" target="_blank">therbta</a></p>
+        </div>
+    </footer>
 </body>
 </html>
