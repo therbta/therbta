@@ -31,6 +31,14 @@ I typically handle problems that normally require full engineering teams.
 
 ---
 
+## ⚡ Featured Projects
+
+<a href="https://therbta.github.io/nano-banana-prompting/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=therbta&repo=nano-banana-prompting&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
