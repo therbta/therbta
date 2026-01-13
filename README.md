@@ -103,22 +103,6 @@ I architect the systems, define the patterns, and use AI to accelerate execution
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=therbta&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🔥 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=therbta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
-</p>
-
----
-
 ## ⚡ Featured Projects Gallery
 
 <table>
