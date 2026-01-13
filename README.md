@@ -33,9 +33,14 @@ I typically handle problems that normally require full engineering teams.
 
 ## ⚡ Featured Projects
 
-<a href="https://therbta.github.io/nano-banana-prompting/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=therbta&repo=nano-banana-prompting&theme=tokyonight&hide_border=true" />
-</a>
+### 🍌 [Nano Banana Pro Prompts](https://therbta.github.io/nano-banana-prompting/)
+A collection of 496 curated AI prompts with search, filtering, and pagination.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub stars](https://img.shields.io/github/stars/therbta/nano-banana-prompting?style=social)
+
+**Live Demo:** [therbta.github.io/nano-banana-prompting](https://therbta.github.io/nano-banana-prompting/)
 
 ---
 
