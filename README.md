@@ -63,7 +63,6 @@ I leverage AI tools to ship faster — not to replace engineering judgment.
 **Productivity Stack:**
 - **Claude Code (Opus)** — Autonomous multi-file edits, refactoring, and test generation
 - **Google Antigravity** — Agent-driven prototyping and UI iteration with Gemini 3 Pro
-- **GLM-4.7** — Cost-effective open-source model for frontend generation and long-context tasks
 
 I architect the systems, define the patterns, and use AI to accelerate execution.
 
